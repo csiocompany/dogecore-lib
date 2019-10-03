@@ -1,4 +1,4 @@
-Litecore Library
+Dogecore Library
 =======
 
 [![NPM Package](https://img.shields.io/npm/v/litecore-lib.svg?style=flat-square)](https://www.npmjs.org/package/litecore-lib)

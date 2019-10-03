@@ -1,5 +1,5 @@
 
 
-var litecoreTasks = require('litecore-build');
+var dogecoreTasks = require('dogecore-build');
 
-litecoreTasks('lib');
+dogecoreTasks('lib');
