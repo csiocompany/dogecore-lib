@@ -1,5 +1,5 @@
 {
-  "name": "@csio/dogecore-lib",
+  "name": "@csio.company/dogecore-lib",
   "version": "0.13.21",
   "description": "A pure and powerful JavaScript Dogecoin library.",
   "author": "",
@@ -30,7 +30,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/csiocompany/dogecore-lib.git"
+    "url": "git+https://github.com/csiocompany/dogecore-lib.git"
   },
   "browser": {
     "request": "browser-request"
@@ -48,8 +48,15 @@
     "brfs": "^1.2.0",
     "chai": "^1.10.0",
     "gulp": "^3.9.1",
-    "dogecore-build": "csiocompany/dogecore-build",
+    "dogecore-build": "github:csiocompany/dogecore-build",
     "sinon": "^1.13.0"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/csiocompany/dogecore-lib/issues"
+  },
+  "homepage": "https://github.com/csiocompany/dogecore-lib#readme",
+  "directories": {
+    "lib": "lib"
+  }
 }
