@@ -1,5 +1,5 @@
 {
-  "name": "dogecore-lib",
+  "name": "@csio/dogecore-lib",
   "version": "0.13.21",
   "description": "A pure and powerful JavaScript Dogecoin library.",
   "author": "",
